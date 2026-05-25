@@ -1,0 +1,6 @@
+@AnimeVerse_HostAddress = http://localhost:5014
+
+GET {{AnimeVerse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
